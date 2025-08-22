@@ -1,0 +1,7 @@
+passo a passo da minha introduçao ao git/gihub
+
+fazer um repository no github
+clonar na minha maquina o link em http
+acessar pasta no meu desktop
+criar alguma anotaçoes como "esta"
+e fazer a minha maquina levar o meu repository atualizado com novas informçoes que criei
